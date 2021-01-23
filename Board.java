@@ -1,8 +1,6 @@
-/*
-Justin Hughes and Yacine Belaifa
-COMP 3721
-Robot Turtles Milestone 4
-Board.java
+/**
+* Board.java
+* @author Justin Hughes
 */
 import java.util.ArrayList;
 
